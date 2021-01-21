@@ -1,0 +1,12 @@
+.noticia {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 25%;
+
+    padding: 0px;
+}
+
+.noticias img {
+    width: 95%;
+}

@@ -1,0 +1,19 @@
+.figura {
+    width: 30%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+
+.bottomfig {
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottomfig p {
+    max-width: 70%;
+}
+

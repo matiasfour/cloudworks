@@ -1,0 +1,13 @@
+.recomendados {
+    width: 850px;
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-between;
+}
+
+.recomendado {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}

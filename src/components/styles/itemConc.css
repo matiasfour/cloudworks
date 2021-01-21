@@ -1,0 +1,16 @@
+.itemConcurso {
+    width: 400px;
+    height: 170px;
+    display: flex;
+  
+    justify-content: space-around;
+   
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    
+}
+
